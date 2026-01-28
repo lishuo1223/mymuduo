@@ -1,0 +1,3 @@
+/home/xlee/cxx/mymyduo/build/CMakeFiles/mymuduo.dir
+/home/xlee/cxx/mymyduo/build/CMakeFiles/edit_cache.dir
+/home/xlee/cxx/mymyduo/build/CMakeFiles/rebuild_cache.dir

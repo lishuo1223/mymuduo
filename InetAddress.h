@@ -15,6 +15,9 @@ public:
     const sockaddr_in* getSockAddr() const{
         return &addr_;
     };
+    void setSockaddr(const sockaddr_in &addr){
+        addr_ = addr;
+    }
 private:
     sockaddr_in addr_;
 };

@@ -142,7 +142,8 @@ CMakeFiles/mymuduo.dir/InetAddress.o: \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/functional_hash.h \
  /usr/include/c++/11/bits/hash_bytes.h \
- /usr/include/c++/11/bits/basic_string.tcc /usr/include/c++/11/iostream \
+ /usr/include/c++/11/bits/basic_string.tcc /usr/include/string.h \
+ /usr/include/strings.h /usr/include/c++/11/iostream \
  /usr/include/c++/11/ostream /usr/include/c++/11/ios \
  /usr/include/c++/11/exception /usr/include/c++/11/bits/exception_ptr.h \
  /usr/include/c++/11/bits/cxxabi_init_exception.h \
@@ -163,5 +164,4 @@ CMakeFiles/mymuduo.dir/InetAddress.o: \
  /usr/include/c++/11/bits/locale_facets.tcc \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc /usr/include/strings.h \
- /usr/include/string.h
+ /usr/include/c++/11/bits/istream.tcc

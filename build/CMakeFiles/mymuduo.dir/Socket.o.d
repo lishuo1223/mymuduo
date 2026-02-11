@@ -143,12 +143,12 @@ CMakeFiles/mymuduo.dir/Socket.o: /home/xlee/cxx/mymyduo/Socket.cc \
  /usr/include/x86_64-linux-gnu/asm/sockios.h \
  /usr/include/asm-generic/sockios.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h \
- /usr/include/x86_64-linux-gnu/bits/in.h /usr/include/unistd.h \
+ /usr/include/x86_64-linux-gnu/bits/in.h /usr/include/string.h \
+ /usr/include/strings.h /usr/include/unistd.h \
  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
  /usr/include/x86_64-linux-gnu/bits/confname.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /usr/include/linux/close_range.h /usr/include/strings.h \
- /usr/include/netinet/tcp.h
+ /usr/include/linux/close_range.h /usr/include/netinet/tcp.h
